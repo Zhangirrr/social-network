@@ -1,0 +1,16 @@
+.email_address{
+    max-width: 360px;
+    min-height: 350px;
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+    /* gap: 15px; */
+    margin-top: 50px;
+    width: 100%;
+}
+
+.inputs{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
