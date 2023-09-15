@@ -29,6 +29,16 @@
       "password": "123456",
       "id": 5,
       "avatar": "https://cs14.pikabu.ru/post_img/big/2023/02/13/8/1676295806139337963.png"
+    },
+    {
+      "login": "asel",
+      "password": "1234",
+      "id": 6
+    },
+    {
+      "login": "qweasdzxc",
+      "password": "456",
+      "id": 7
     }
   ],
   "posts": [
